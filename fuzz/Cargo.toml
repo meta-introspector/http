@@ -19,4 +19,4 @@ path = ".."
 name = "fuzz_http"
 path = "src/fuzz_http.rs"
 
-[workspace]
+#[workspace]
